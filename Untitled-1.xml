@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Surfing Waves News</title>
+  <link>hhttps://surfing-waves.com/feed.htm</link>
+  <description>News</description>
+  <item>
+    <title>Surfing Waves News</title>
+    <link>https://surfing-waves.com/newsrss.xml</link>
+    <description>News</description>
+  </item>
+  <item>
+    <title>Surfing Waves News</title>
+    <link>https://surfing-waves.com/articlesrss.xml</link>
+    <description>News </description>
+  </item>
+</channel>
+
+</rss>

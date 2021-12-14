@@ -1,2 +1,2 @@
-# NFA-News-For-All-Blind
-Read or listen to news
+# News-For-All-NFA
+# NFA-News-For-All-
